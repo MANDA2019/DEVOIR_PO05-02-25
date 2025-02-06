@@ -2,7 +2,6 @@
 #include "Complexe.h"
 using namespace std;
 namespace Isa {
-
 Complexe::Complexe(double partre,double partim){
         pr = partre;
         pi = partim;
