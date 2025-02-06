@@ -80,12 +80,4 @@ Rationnel::~Rationnel()
 
 
 
-
-
-
-
-
-
-
-
 }
